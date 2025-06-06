@@ -1,0 +1,17 @@
+# dev-requirements.txt
+# Development-only tools for SSNote
+
+# Packaging tool
+pyinstaller==6.4.0
+
+# Optional: Type checker (static analysis)
+mypy==1.10.0
+
+# Optional: Code style checker
+black==24.4.2
+
+# Optional: Linter
+flake8==7.0.0
+
+# Optional: For Python GUI testing (if added later)
+pytest==8.2.0

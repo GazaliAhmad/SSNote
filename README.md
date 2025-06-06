@@ -1,6 +1,16 @@
 # SSNote™ – Stupidly Simple Notepad
 
-A lightweight, bloat-free notepad app for Windows. Built with Python and Tkinter. No registry entries, no background services, no clutter — just a fast, minimal, single-tasking text editor.
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
+
+A lightweight, bloat-free notepad app for Windows. Built with Python and Tkinter.
+
+- No registry entries  
+- No background services  
+- No clutter  
+- Just a fast, minimal, single-tasking text editor
 
 ---
 
@@ -21,10 +31,15 @@ A lightweight, bloat-free notepad app for Windows. Built with Python and Tkinter
 
 ---
 
-## 📦 Installation
+## 📦 Installation (for Users)
 
-### 1. From Source (requires Python 3.11+)
+### Option 1: Download the Executable
+
+> Coming soon in [Releases](https://github.com/GazaliAhmad/SSNote/releases)  
+> Just download and run `ssnote.exe`. No installation required.
+
+### Option 2: Run from Source (Python 3.11+ required)
 
 ```bash
-pip install -r requirements.txt  # optional, no external deps
+pip install -r requirements.txt
 python ssnote.py

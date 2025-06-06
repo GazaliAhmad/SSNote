@@ -1,0 +1,4 @@
+# requirements.txt
+# SSNote has no third-party dependencies
+# Built using standard Python 3.11+
+# tkinter is included with standard Python installations
