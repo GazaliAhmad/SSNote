@@ -158,8 +158,13 @@ build/
 *.spec
 *.exe
 
+# Ignore all .json and .txt files
 *.json
 *.txt
+
+# But don't ignore these two specific files
+!requirements.txt
+!dev-requirements.txt
 
 
 # PyCharm
